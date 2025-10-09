@@ -107,7 +107,11 @@ mvtec-ad/
 Example visualizations are generated and saved in:
 
 ```
-/kaggle/working/images/<category>/
+![Pill defect](Output_image/PILL.png)
+![Carpet defect](Output_image/carpet.png)
+![Grid defect](Output_image/GRID.png)
+
+
 ```
 
 Each includes:
