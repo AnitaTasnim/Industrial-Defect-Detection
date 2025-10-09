@@ -129,16 +129,4 @@ Each includes:
 
 ---
 
-## 🧠 Future Work
-
-* Tune pixel-level threshold using validation data.
-* Apply morphological refinement to masks.
-* Try ensemble of EfficientNet-B4 & B5.
-* Increase epochs for fine-tuning.
-
----
-
-**Author:**
-Jakir Hossen — Elite Lab, Islamic University, Kushtia
-**Frameworks:** PyTorch, Anomalib, TIMM
-**License:** MIT
+ 
