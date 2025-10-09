@@ -17,6 +17,12 @@ The goal is to detect and localize surface and structural defects across 15 indu
 * Generate visual results (defect overlays) and per-category performance summaries.
 
 ---
+<center><img src="https://user-images.githubusercontent.com/17668390/164736543-0ef58c66-dfb0-47c5-8e6e-26774dbc6fd3.gif" alt="Paris"></center>
+
+---
+
+[Anomalib](https://github.com/openvinotoolkit/anomalib): Anomalib is a deep learning library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets. Anomalib provides several ready-to-use implementations of anomaly detection algorithms described in the recent literature, as well as a set of tools that facilitate the development and implementation of custom models. The library has a strong focus on image-based anomaly detection, where the goal of the algorithm is to identify anomalous images, or anomalous pixel regions within images in a dataset.
+
 
 ## 📚 Dataset
 
